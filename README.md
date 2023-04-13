@@ -144,3 +144,5 @@ The `sol2uml` generates UML class diagram from Solidity contracts.
 ## License
 
 Code released under the [MIT License](https://github.com/vittominacori/solidity-starter-kit/blob/master/LICENSE).
+
+_Testing scan_
